@@ -1,0 +1,27 @@
+{
+  "main_menu":
+  {
+    "bottom_left":
+	[
+		{
+			"text":"Purposeful Create v1.0.3",
+			"clickEvent":
+			{
+				"action":"open_url",
+				"value":"https://modrinth.com/modpack/purposeful-create"
+			}
+		}
+	],
+	"bottom_right":
+	[
+		{
+			"text":"By HRLou",
+			"clickEvent":
+			{
+				"action":"open_url",
+				"value":"https://www.hrlou.net"
+			}
+		}
+	]
+  }
+}
