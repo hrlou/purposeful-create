@@ -4,7 +4,7 @@
     "bottom_left":
 	[
 		{
-			"text":"Purposeful Create v1.0.3",
+			"text":"Purposeful Create v1.0.4",
 			"clickEvent":
 			{
 				"action":"open_url",
