@@ -5,7 +5,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 entityShadows:true
-forceUnicodeFont:true
+forceUnicodeFont:false
 directionalAudio:true
 fullscreen:false
 bobView:true
