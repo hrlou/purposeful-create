@@ -13,8 +13,10 @@ On your adventure you'll have to deal with changing seasons, temperature and wid
 - [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful-fabric)
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured-fabric)
 - [Create: Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric)
+- [Droplight](https://www.curseforge.com/minecraft/mc-mods/droplight)
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
 - [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
+- [Horizontal Panes](https://www.curseforge.com/minecraft/mc-mods/horizontal-glass-panes)
 - [Kambrik](https://www.curseforge.com/minecraft/mc-mods/kambrik)
 - [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric)
 - [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
@@ -28,6 +30,8 @@ On your adventure you'll have to deal with changing seasons, temperature and wid
 - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
 - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
 - [Simple Backpack](https://www.curseforge.com/minecraft/mc-mods/simple-backpack-fabric)
+- [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+- [WorldEdit CUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
 
 ### Resource Packs
 - [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
