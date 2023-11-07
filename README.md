@@ -1,11 +1,37 @@
 # Purposeful Create
-Automation and industries with purpose
+Automation and industries with purpose!
 
-## Summary 
+Purposeful Create is a simple modpack that aims to enhance the vanilla experience,
+and add some needed difficulty.
+Centring around Create with some other fun additions,
+filling gaps in the vanilla experience; making your progress feel more purposeful.
+New biomes, enemies, and resources to discover and exploit. 
 
-Purposeful Create is a simple modpack that aims to enhance the vanilla experience, and add some needed difficulty. Centring around Create with some other fun additions, filling gaps in the vanilla experience; making your progress feel more purposeful. New biomes, enemies, and resources to discover and exploit. 
+On your adventure you'll have to deal with changing seasons,
+temperature and wider range of tough enemies to stand in your way as you carve your industrial civilisation.
+The pack includes a wide range of optimisations and visual tweeks,
+allowing the game to run stably and beautifully. 
 
-On your adventure you'll have to deal with changing seasons, temperature and wider range of tough enemies to stand in your way as you carve your industrial civilisation. The pack includes a wide range of optimisations and visual tweeks, allowing the game to run stably and beautifully. 
+## Goal
+
+My biggest issue with Minecraft is a lack of purpose and insensitive for your actions.
+The game provides a vast toolset to carve any world of your choosing. However the central survival gameplay loop gives no insentive for you to use its toolbox to its full extent.
+
+Create expands on Minecraft's toolbox to the world of engineering extremely organically;
+its style is indistinguishable from vanilla.
+This expanded toolbox can be used to create machines and contraptions,
+which most importantly have insentive. The Create developers share my issue and have done an absolutely fantastic job of remedying it. 
+
+I wanted to further expand on Create by combining it with other mods,
+thus I created this modpack following these rules. 
+
+### Rules
+
+- Content must have a purpose, content must not be obsolescent by default
+
+- Not all resources can be renewable, there needs to be a reason to further explore/exploit the world
+
+- Players shouldn't be able to become 'godlike' and should instead have to rely upond machines. Equipment should provide advantages but still leave room for difficulty, even in the end game
 
 ## Credit
 
