@@ -1,6 +1,5 @@
 # Hess Lewis
 # 07/11/2023
-# I am not a python programer (:
 
 import os
 import subprocess
@@ -71,3 +70,5 @@ shutil.copytree(CLIENT_BUILD_DIR, f'{MMC_BUILD_DIR}/.minecraft')
 print("Zipping MultiMC")
 shutil.make_archive(f'{PROJECT_DIR}/build/Purposeful_Create-MultiMC-{COMMIT_ID}', 'zip', MMC_BUILD_DIR)
 
+print("Zipping Server")
+shutil.make_archive(f'{PROJECT_DIR}/build/Purposeful_Create-server-{COMMIT_ID}', 'zip', SERVER_BUILD_DIR)
