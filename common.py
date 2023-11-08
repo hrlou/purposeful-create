@@ -1,3 +1,4 @@
+import os
 import shutil
 
 def merge_directories(new_directory, source_dir1, source_dir2):
