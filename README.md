@@ -38,6 +38,7 @@ thus I created this modpack following these rules.
 ### Mods
 - [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful-fabric)
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured-fabric)
+- [Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)
 - [Create: Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric)
 - [Droplight](https://www.curseforge.com/minecraft/mc-mods/droplight)
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
