@@ -48,6 +48,18 @@ def build_multimc():
         shutil.make_archive(MMC_TARGET, 'zip', MMC_BUILD_DIR)
         print("Finished zipping MultiMC directory\n")
 
+def build_manifest():
+    if path.exists(BUILD_MANIFEST):
+        print("Previous build manifest exists")
+        manifest = open(BUILD_MANIFEST, 'r')
+        last_commit = manifest.readline()
+        print(last_commit)
+    else: 
+        print("Creating build manifest")
+        manifest = open(BUILD_MANIFEST, 'w')
+        manifest.write(COMMIT_ID)
+
+
 print(f'Starting build')
 print(f'Building with commit: \'{COMMIT_ID}\'\n')
 
@@ -55,6 +67,7 @@ if not path.exists(BUILD_DIR):
     print("Build path not found: creating one")
     mkdir(BUILD_DIR)
 
+build_manifest()
 build_client()
 build_server()
 build_multimc()
