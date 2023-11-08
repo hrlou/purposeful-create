@@ -6,6 +6,7 @@ from config import *
 
 # import jinja2
 from os import path, mkdir
+from sys import argv
 import shutil
 
 def build_client():
@@ -59,7 +60,6 @@ def build_manifest():
         manifest = open(BUILD_MANIFEST, 'w')
         manifest.write(COMMIT_ID)
 
-
 print(f'Starting build')
 print(f'Building with commit: \'{COMMIT_ID}\'\n')
 
@@ -68,6 +68,18 @@ if not path.exists(BUILD_DIR):
     mkdir(BUILD_DIR)
 
 build_manifest()
-build_client()
-build_server()
-build_multimc()
+if len(argv) <= 1:
+    build_server()
+    build_client()
+    build_multimc()
+if argv[1] == "client":
+    build_client()
+    build_multimc()
+elif argv[1] == "server":
+    build_server()
+else:
+    print("Huh?")
+
+exit(0)
+
+
