@@ -1,0 +1,13 @@
+name = "Move Boats"
+filename = "moveboats-1.19.2-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7qPEjpyt/versions/QF9pUyJh/moveboats-1.19.2-3.1.jar"
+hash-format = "sha1"
+hash = "26b4a6fb02d0686ee9891a316bc7b181087d7ae4"
+
+[update]
+[update.modrinth]
+mod-id = "7qPEjpyt"
+version = "QF9pUyJh"

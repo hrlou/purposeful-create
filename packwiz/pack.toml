@@ -1,0 +1,13 @@
+name = "Purposeful Create"
+author = "Hess Lewis"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c81ace7288b0597d5f5e22e1361f8bb70c56c45754e69f7d605e0d15dfa0bc0e"
+
+[versions]
+fabric = "0.14.24"
+minecraft = "1.19.2"

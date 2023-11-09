@@ -1,0 +1,13 @@
+name = "Enhanced Turtle Items (ETI)"
+filename = "eti-0.1.3-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3xIzvzCc/versions/WVTtD6HO/eti-0.1.3-1.19.2.jar"
+hash-format = "sha1"
+hash = "606094a64f57f78b37a9c9d758eb46cc9af71be6"
+
+[update]
+[update.modrinth]
+mod-id = "3xIzvzCc"
+version = "WVTtD6HO"
