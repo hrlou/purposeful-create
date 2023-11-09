@@ -36,12 +36,12 @@ thus I created this modpack following these rules.
 ## Credit
 
 ### Mods
+
 - [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful-fabric)
-- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured-fabric)
 - [Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)
 - [Create: Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric)
-- [Droplight](https://www.curseforge.com/minecraft/mc-mods/droplight)
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
+- [Droplight](https://www.curseforge.com/minecraft/mc-mods/droplight)
 - [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
 - [Horizontal Panes](https://www.curseforge.com/minecraft/mc-mods/horizontal-glass-panes)
 - [Kambrik](https://www.curseforge.com/minecraft/mc-mods/kambrik)
@@ -56,11 +56,17 @@ thus I created this modpack following these rules.
 - [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
 - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
 - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
+- [PAUCAL](https://www.curseforge.com/minecraft/mc-mods/paucal)
 - [Simple Backpack](https://www.curseforge.com/minecraft/mc-mods/simple-backpack-fabric)
-- [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 - [WorldEdit CUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
+- [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
 ### Resource Packs
+
 - [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
 - [Stay True: Modded Compats](https://www.curseforge.com/minecraft/texture-packs/stay-true-modded-compats)
 - [Stay True: No Bushy Leaves](https://www.curseforge.com/minecraft/mc-addons/staytrue-nobushyleaves)
+
+### Deprecated
+
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured-fabric)
