@@ -8,7 +8,7 @@ if [ ! -f "./eula.txt" ]; then
     esac
 fi
 while true; do
-    java -Xms4000M -Xmx4000M -XX:+UseG1GC -XX:G1HeapRegionSize=4M -XX:+UnlockExperimentalVMOptions -XX:+ParallelRefProcEnabled -XX:+AlwaysPreTouch -XX:MaxInlineLevel=15 -jar server.jar --nogui
+    java @jvm_args.txt -jar server.jar --nogui
     echo Server restarting...
     echo Press CTRL + Z to stop.
 done
