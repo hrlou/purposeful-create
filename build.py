@@ -65,10 +65,7 @@ def build_manifest():
 
 def clean():
     print("Cleaning build directory")
-    os.remove(BUILD_MANIFEST)
-    shutil.rmtree(CLIENT_BUILD_DIR)
-    shutil.rmtree(SERVER_BUILD_DIR)
-    shutil.rmtree(MMC_BUILD_DIR)
+    shutil.rmtree(BUILD_DIR)
     print("Finished cleaning build directory")
 
 do_clean = False
