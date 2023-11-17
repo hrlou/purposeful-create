@@ -37,6 +37,7 @@ thus I created this modpack following these rules.
 
 ### Mods
 
+- [Building Wands](https://www.curseforge.com/minecraft/mc-mods/building-wands)
 - [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful-fabric)
 - [Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)
 - [Create: Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric)
