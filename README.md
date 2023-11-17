@@ -12,6 +12,11 @@ temperature and wider range of tough enemies to stand in your way as you carve y
 The pack includes a wide range of optimisations and visual tweeks,
 allowing the game to run stably and beautifully. 
 
+## Roadmap
+
+- Configure crafting recipes to better fit the pack
+- Fix item conflics
+
 ## Goal
 
 My biggest issue with Minecraft is a lack of purpose and insensitive for your actions.
